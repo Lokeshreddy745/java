@@ -1,1 +1,1 @@
-# java
+# Student Management App
